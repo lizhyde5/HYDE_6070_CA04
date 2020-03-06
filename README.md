@@ -4,7 +4,7 @@ Data Source: The dataset is from the Census Bureau and includes salaries and sev
 
 Code performes these tasks:
 
-1. Find Optimal Value of a Hyper-parameter: max_depth
+1. Find Optimal Value of a Hyper-parameter: Decision Tree (max_depth)
 
 2. Build Models with different Values of Hyperparameter: N_estimators
   Random Forest
