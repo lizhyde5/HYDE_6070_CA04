@@ -7,10 +7,10 @@ Code performes these tasks:
 1. Find Optimal Value of a Hyper-parameter: Decision Tree (max_depth)
 
 2. Build Models with different Values of Hyperparameter: N_estimators
-  Random Forest
-  AdaBoost
-  Gradient Boost
-  XGBoost
+  (Random Forest,
+  AdaBoost,
+  Gradient Boost,
+  XGBoost)
   
 3. Compare Accuracy - insert Accuracy and AUC values into table (classifier_output.csv)
 
